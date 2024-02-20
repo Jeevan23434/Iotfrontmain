@@ -3,7 +3,7 @@ import React, { useEffect, useState, useRef } from "react";
 import axios from 'axios';
 import './App.css';
 
-const host = "http://localhost:5000"
+const host = "https://databackend-vt1h.onrender.com"
 // const Data=()=>{
 // const [data, setData] = useState([]);
 
