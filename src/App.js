@@ -1,6 +1,4 @@
-import logo from './logo.svg';
 import React, { useEffect, useState, useRef } from "react";
-import axios from 'axios';
 import './App.css';
 
 const host = "https://databackend-vt1h.onrender.com"
